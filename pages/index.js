@@ -15,7 +15,7 @@ export default function Home() {
 
             <main className="p-4 space-y-8 text-center">
                 <h1 className="text-4xl">
-                    Fetching Data from Authenticated API
+                    Welcome to Pat&apos;s Cookie Stand Page!
                 </h1>
 
                 {user ? (
